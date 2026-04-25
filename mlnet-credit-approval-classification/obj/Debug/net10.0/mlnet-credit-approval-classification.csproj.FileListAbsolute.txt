@@ -1,0 +1,4 @@
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.GeneratedMSBuildEditorConfig.editorconfig
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.AssemblyInfoInputs.cache
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.AssemblyInfo.cs
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.csproj.CoreCompileInputs.cache

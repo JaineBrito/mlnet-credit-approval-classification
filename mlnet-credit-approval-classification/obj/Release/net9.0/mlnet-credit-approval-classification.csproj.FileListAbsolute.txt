@@ -1,0 +1,12 @@
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\bin\Release\net9.0\mlnet-credit-approval-classification.deps.json
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\bin\Release\net9.0\mlnet-credit-approval-classification.dll
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\bin\Release\net9.0\mlnet-credit-approval-classification.pdb
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\mlnet-credit-approval-classification.csproj.AssemblyReference.cache
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\mlnet-credit-approval-classification.GeneratedMSBuildEditorConfig.editorconfig
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\mlnet-credit-approval-classification.AssemblyInfoInputs.cache
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\mlnet-credit-approval-classification.AssemblyInfo.cs
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\mlnet-credit-approval-classification.csproj.CoreCompileInputs.cache
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\mlnet-credit-approval-classification.dll
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\refint\mlnet-credit-approval-classification.dll
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\mlnet-credit-approval-classification.pdb
+C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Release\net9.0\ref\mlnet-credit-approval-classification.dll
