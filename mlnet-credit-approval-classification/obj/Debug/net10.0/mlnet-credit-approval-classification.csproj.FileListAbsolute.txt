@@ -2,3 +2,12 @@ C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj
 C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.AssemblyInfoInputs.cache
 C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.AssemblyInfo.cs
 C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.csproj.CoreCompileInputs.cache
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\bin\Debug\net10.0\mlnet-credit-approval-classification.deps.json
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\bin\Debug\net10.0\mlnet-credit-approval-classification.dll
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\bin\Debug\net10.0\mlnet-credit-approval-classification.pdb
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.csproj.AssemblyReference.cache
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.sourcelink.json
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.dll
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\refint\mlnet-credit-approval-classification.dll
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\mlnet-credit-approval-classification.pdb
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification\obj\Debug\net10.0\ref\mlnet-credit-approval-classification.dll

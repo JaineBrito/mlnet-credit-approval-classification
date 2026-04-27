@@ -154,3 +154,4 @@ C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification-con
 C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification-console\obj\Debug\net10.0\mlnet-credit-approval-classification-console.pdb
 C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification-console\obj\Debug\net10.0\mlnet-credit-approval-classification-console.genruntimeconfig.cache
 C:\mlnet-credit-approval-classification\mlnet-credit-approval-classification-console\obj\Debug\net10.0\ref\mlnet-credit-approval-classification-console.dll
+c:\mlnet-credit-approval-classification\mlnet-credit-approval-classification-console\obj\Debug\net10.0\mlnet-credit-approval-classification-console.sourcelink.json

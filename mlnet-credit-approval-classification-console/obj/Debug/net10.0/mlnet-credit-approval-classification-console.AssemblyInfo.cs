@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mlnet-credit-approval-classification-console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe6c12497d2882c3d6c7f4d0ff3c07792286d4a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("mlnet-credit-approval-classification-console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mlnet-credit-approval-classification-console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
